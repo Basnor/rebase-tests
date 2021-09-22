@@ -8,4 +8,6 @@ These technologies create an AR experience providing with the hardware of the ph
 
 ## 1 Comparing AR criteria
 
-The main purpose of an AR application is to place a 3D object in the real-world space. To do this, you need to have a special anchor that is used to attach a virtual object with real coordinates. 
+The main purpose of an AR application is to place a 3D object in the real-world space. To do this, you need to have a special anchor that is used to attach a virtual object with real coordinates. Generally, these anchors have two groups of the following:
+* Marker (such as picture, QR, geoposition, etc.);
+* Coordinates in the plane or real-world, obtained by special algorithms.

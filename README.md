@@ -7,3 +7,5 @@ These technologies create an AR experience providing with the hardware of the ph
 
 
 ## 1 Comparing AR criteria
+
+The main purpose of an AR application is to place a 3D object in the real-world space. 

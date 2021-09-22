@@ -1,4 +1,4 @@
-#Review AR on the Web
+# Review AR on the Web
 
 The progressive Web app allows users to get different type of the content according to current tech on top of trends. AR mode on the Web focused on two basic technologies:
 * WebGL – 3D Canvas graphics – JavaScript API are for generating and rendering dynamic 3D graphics.

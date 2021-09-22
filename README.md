@@ -6,3 +6,4 @@ The progressive Web app allows users to get different type of the content accord
 These technologies create an AR experience providing with the hardware of the phone such as GPU and camera. Since there are various electronics manufacturers, companies can influence the support of the required functionality.
 
 
+## 1 Comparing AR criteria
